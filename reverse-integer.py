@@ -7,7 +7,7 @@
 # of this problem, assume That your function returns 0 when the reversed integer
 # overflows
 
-# Restate the question: 
+# Restate the problem: 
 #   
 # Clarifying questions
 
